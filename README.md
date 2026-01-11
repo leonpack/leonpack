@@ -79,8 +79,6 @@ Here are some of the certifications I've completed or currently pursuing:
 
 ### **Artifical Intelligence & Machine Learning**
 - Understanding AI and LLMs as a Network Engineer (AI4NE) – ([![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/badges/17da3aca-a3a9-4def-a35e-6e71898eac8a/public_url))
-- Node.js Microservices Architecture – (Udemy)
-- REST API Design & Architecture – (FreeCodeCamp)
 
 > *More certifications will be added as I continue leveling up my skills in DevOps, backend engineering, and distributed systems.*
 
