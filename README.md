@@ -50,43 +50,6 @@ I enjoy:
 
 ---
 
-## 💼 Experience Highlights
-
-### **🔹 TechSpark Technologies (May 2024 – Present) — Backend Developer**
-- Maintain & build new features for **MBCCS** (large-scale enterprise backend).  
-- Develop & optimize **SOAP web services (XML)** for system integration.  
-- Built the **METFONE Reconciliation System**, automating daily financial matching.  
-- Developed **Metgame.net Top-Up Portal** using Spring Boot + Oracle + REST payment gateway integrations.  
-- Built **AgriMe mobile app backend** with Express.js, PostgreSQL, Redis & AI model integration.
-
-### **🔹 ALTEK Co. (Aug 2023 – Apr 2024) — Backend Developer / DevOps**
-- Developed backend for **CAMID super app**, **OukChaktrang**, **BeatShotgun** (high-traffic).  
-- Led architecture of scalable RESTful APIs.  
-- Built a **centralized authentication system** for all company games.  
-- Implemented **rate limiting, DDoS mitigation**, SSL, Nginx load balancing.  
-- Deployed game servers using **Docker + PM2**.
-
-### **🔹 FPT Software (Oct 2024 – Present Part-Time)**
-- Working with **Vue.js**, **SCSS**, and **Adobe Experience Manager (AEM)** for enterprise front-end development and CMS workflows.
-
-### **🔹 FPT Software (Intern, 2021)**
-- Evaluated new frameworks & improved system performance.  
-
----
-
-## 🏆 Achievements
-- **Best Employee of The Year 2024 – TechSpark**
-- **Rising Star Employee 2023 – ALTEK**
-- **TOEIC 920** (Excellent English)
-
----
-
-## 🎓 Education
-- **B.Sc. Information Technology — FPT University (2018 – 2023)**  
-- **Exchange Student — IMUS Institute, Philippines (2018 – 2019)**  
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
