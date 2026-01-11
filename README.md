@@ -50,19 +50,25 @@ I enjoy:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=leonpack&show_icons=true&theme=tokyonight" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonpack&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## 🔬 Pet Projects & DevOps Lab
+
+I maintain a personal **Microservices & DevOps Lab** where I experiment with distributed systems, observability, and production-grade architectures.  
+This sandbox helps me continuously improve my backend, DevOps, and platform engineering skills.
+
+### **⚙️ Microservices Architecture Playground**
+A self-built environment where I'm testing:
+- Service-to-service communication  
+- API Gateway routing  
+- Load balancing  
+- Service discovery  
+- Monitoring & distributed logging  
 
 ---
 
