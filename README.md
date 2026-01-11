@@ -11,7 +11,7 @@
 
 I'm a **Backend Developer** with hands-on experience building scalable systems, secure authentication services, high-traffic game backends, financial reconciliation tools, and enterprise solutions.
 
-Currently working at **TechSpark Technologies**, and previously contributed to **FPT Software** & **ALTEK**.
+Currently working at **FPT Software**, and previously contributed to **Techspark Co.** & **ALTEK**.
 
 I enjoy:
 - Building reliable backend systems  
