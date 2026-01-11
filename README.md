@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=leonpack&label=Profile%20Views&color=blue" alt="views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Spanish-Streak-300+_days-brightgreen?logo=duolingo&logoColor=green" />
+</p>
+
 ---
 
 ## 🚀 About Me
